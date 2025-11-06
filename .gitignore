@@ -1,2 +1,6 @@
-# created by virtualenv automatically
-venv/bin
+# Ignore everything
+*
+
+# Except Python files and README
+!*.py
+!README.md
